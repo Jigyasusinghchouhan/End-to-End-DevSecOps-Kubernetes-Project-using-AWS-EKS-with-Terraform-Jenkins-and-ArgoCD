@@ -1,0 +1,2 @@
+# End-to-End-DevSecOps-Kubernetes-Project-using-AWS-EKS-with-Terraform-Jenkins-and-ArgoCD
+ This project sets up an End-to-End DevSecOps pipeline using AWS EKS, Terraform, Jenkins, and ArgoCD. It automates infrastructure provisioning, continuous integration, and deployment with integrated security checks using tools like Trivy, SonarQube, and OWASP Dependency-Check for secure, scalable application delivery.
